@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=homelesssandwich&show_icons=true&locale=en&layout=compact" alt="homelesssandwich" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=homelesssandwich&show_icons=true&locale=en" alt="homelesssandwich" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=homelesssandwich&" alt="homelesssandwich" /></p>
