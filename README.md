@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oli</h1>
 <h3 align="center">A passionate data scientist from England</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=homelesssandwich&label=Profile%20views&color=0e75b6&style=flat" alt="homelesssandwich" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=okwilkins&label=Profile%20views&color=0e75b6&style=flat" alt="okwilkins" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=homelesssandwich" alt="homelesssandwich" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okwilkins" alt="okwilkins" /></a> </p>
 
 - 🔭 I’m currently working on **BERT finetuning and 3D model detection**
 
