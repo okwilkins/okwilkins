@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okwilkins" alt="okwilkins" /></a> </p>
 
-- 🔭 I’m currently working on the **[Vesuvius Ink Detection Challenge on Kaggle](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection)**
+- 🔭 I’m currently working on [Dockerising a reinforcement learning Nintendo 64 environment](https://github.com/okwilkins/mario-party-rl)
 
 - 💬 Ask me about **Python & data science**
 
